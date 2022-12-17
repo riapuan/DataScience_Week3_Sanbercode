@@ -1,1 +1,2 @@
-# DataScience_Week3_Sanbercode
+# DataScience_Week3
+Pada minggu ketiga, saya mempelajari materi dan hands on terkait matplotlib introduction, customizing visualization, multiple subplots, quantitative comparison, dan seaborn.
